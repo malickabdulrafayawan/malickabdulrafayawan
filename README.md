@@ -3,7 +3,7 @@
 <h3 align="center">Robotics & Intelligence Systems Undergraduate | AI, Computer Vision & Embedded Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=System.init(%22Abdul+Rafay+Awan%22);;Robotics+%26+Intelligence+Systems;;Computer+Vision+%26+Control+Systems;;Building+Autonomous+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E96FF&center=true&vCenter=true&width=500&lines=Robotics+%26+Intelligence+Systems;Computer+Vision+%26+OpenCV;Machine+Learning+%26+Python;Embedded+Systems+%26+Arduino" alt="Typing SVG" />
 </p>
 
 ---
