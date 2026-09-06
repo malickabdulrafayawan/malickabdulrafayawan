@@ -87,12 +87,12 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-Awan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-Awan&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malickabdulrafayawan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malickabdulrafayawan&layout=compact&theme=tokyonight&hide=html,css"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rafay-Awan&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malickabdulrafayawan&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ---
