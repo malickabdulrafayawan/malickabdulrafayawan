@@ -3,7 +3,7 @@
 <h3 align="center">Robotics & Intelligence System Undergraduate | AI, Computer Vision & Embedded Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E96FF&center=true&vCenter=true&width=500&lines=Robotics+%26+Intelligence+Systems;Computer+Vision+%26+OpenCV;Machine+Learning+%26+Python;Embedded+Systems+%26+Arduino" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E96FF&center=true&vCenter=true&width=500&lines=Robotics+%26+Intelligence+System;Computer+Vision+%26+OpenCV;Machine+Learning+%26+Python;Embedded+Systems+%26+Arduino" alt="Typing SVG" />
 </p>
 
 ---
