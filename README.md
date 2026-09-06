@@ -38,13 +38,35 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
-| Project | Domain | Key Tech Stack | Description |
+**AI & Computer Vision**
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **Virtual Paint Brush (Air Canvas)** | Python, OpenCV, MediaPipe | Real-time virtual drawing application using hand gesture tracking. |
+| **Hand Gesture Recognition** | Python, Scikit-Learn, OpenCV | Machine learning model for detecting and classifying hand poses. |
+
+**Robotics & Embedded Systems**
+
+| Project | Complete Hardware / Software Stack | Description |
+| :--- | :--- | :--- |
+| **Self-Stabilizing Gimbal** | Arduino, MPU6050 Gyro/Accel, Servo Motors, C++ | Multi-axis stabilization system maintaining orientation via real-time IMU feedback. |
+
+**Signal Processing & Computation**
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **MATLAB Audio Filter** | MATLAB, DSP, Fourier Analysis | Noise cancellation system using custom digital signal filtering algorithms. |
+
+---
+
+### 💼 Experience
+
+| 👤 Role | 🏢 Organization / Institution | 📅 Period | 📑 Details |
 | :--- | :--- | :--- | :--- |
-| **Virtual Paint Brush using Hand Gestures** | Computer Vision & AI | Python, OpenCV, MediaPipe | Real-time virtual drawing/painting application using hand gesture tracking |
-| **Self-Stabilizing Gimbal** | Hardware & Control | Arduino, IMU/Gyro, Servos | Multi-axis gimbal system for real-time camera/sensor stabilization |
-| **MATLAB Audio Filter** | Signal Processing | MATLAB, DSP, Fourier Analysis | Audio noise cancellation using digital signal filtering techniques |
+| **Undergraduate Student** | Robotics & Intelligence Systems | Present | Pursuing degree focused on AI, Computer Vision, and Control Systems. |
+| **Academic Projects** | University Engineering Labs | Ongoing | Developing real-time hardware-software integrations and vision systems. |
 
 ---
 
