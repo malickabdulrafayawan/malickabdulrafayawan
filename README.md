@@ -1,5 +1,5 @@
 <!-- Header Banner / Title -->
-<h1 align="center">Hi 👋, I'm Abdul Rafay Awan</h1>
+<h1 align="center">Hi, I'm Abdul Rafay Awan</h1>
 <h3 align="center">Robotics & Intelligence System Undergraduate | AI, Computer Vision & Embedded Systems</h3>
 
 <p align="center">
