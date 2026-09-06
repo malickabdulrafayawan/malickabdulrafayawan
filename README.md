@@ -1,4 +1,9 @@
 <!-- Header Banner / Title -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/malickabdulrafayawan/malickabdulrafayawan/main/1788703818876.png" width="100%" alt="Banner"/>
+</p>
+
+
 <h1 align="center">Hi, I'm Abdul Rafay Awan</h1>
 <h3 align="center">Robotics & Intelligence System Undergraduate | AI, Computer Vision & Embedded Systems</h3>
 
