@@ -3,7 +3,7 @@
 <h3 align="center">Robotics & Intelligence Systems Undergraduate | AI, Computer Vision & Embedded Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E96FF&center=true&vCenter=true&width=500&lines=Robotics+%26+Intelligence+Systems;Computer+Vision+%26+OpenCV;Machine+Learning+%26+Python;Embedded+Systems+%26+Arduino" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0077B5&height=180&section=header&text=Robotics%20%26%20Intelligence%20Systems&fontSize=28&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
 </p>
 
 ---
@@ -71,4 +71,3 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
