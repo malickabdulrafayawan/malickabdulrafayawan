@@ -1,15 +1,15 @@
 <!-- Header Banner / Title -->
 <h1 align="center">Hi 👋, I'm Abdul Rafay Awan</h1>
-<h3 align="center">Robotics & Intelligent Systems Undergraduate | AI, Computer Vision & Embedded Systems</h3>
+<h3 align="center">Robotics & Intelligence Systems Undergraduate | AI, Computer Vision & Embedded Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E96FF&width=435&lines=Robotics+%26+Intelligent+Systems;Computer+Vision+%26+OpenCV;Machine+Learning+%26+Python;Embedded+Systems+%26+Arduino" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E96FF&center=true&vCenter=true&width=500&lines=Robotics+%26+Intelligence+Systems;Computer+Vision+%26+OpenCV;Machine+Learning+%26+Python;Embedded+Systems+%26+Arduino" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me
-- 🎓 **Education:** B.S. in Robotics and Intelligent Systems
+- 🎓 **Education:** B.S. in Robotics & Intelligence Systems
 - 🔭 **Working On:** Computer Vision systems, Gesture Recognition, & Audio Signal Processing
 - 🛠️ **Hands-on Hardware:** Arduino Microcontrollers, IMU/Gyro Sensors, & Actuator Stabilization
 - 📑 **Documentation:** Technical writing & presentation design using LaTeX & Overleaf
@@ -71,3 +71,4 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
