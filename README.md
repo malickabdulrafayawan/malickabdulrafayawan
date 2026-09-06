@@ -44,20 +44,23 @@
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **Virtual Paint Brush (Air Canvas)** | Python, OpenCV, MediaPipe | Real-time virtual drawing application using hand gesture tracking. |
+| **AI Virtual Painter** | Python, OpenCV, MediaPipe | Real-time interactive virtual drawing canvas controlled by hand gesture tracking. |
 | **Hand Gesture Recognition** | Python, Scikit-Learn, OpenCV | Machine learning model for detecting and classifying hand poses. |
 
-**Robotics & Embedded Systems**
+**Robotics, Embedded Systems & Electronics**
 
 | Project | Complete Hardware / Software Stack | Description |
 | :--- | :--- | :--- |
-| **Self-Stabilizing Gimbal** | Arduino, MPU6050 Gyro/Accel, Servo Motors, C++ | Multi-axis stabilization system maintaining orientation via real-time IMU feedback. |
+| **Self-Stabilizing Gimbal** | Arduino, MPU6050 Gyro/Accel, Servos, C++ | Multi-axis stabilization system maintaining camera orientation via real-time IMU feedback. |
+| **Automatic Visitor Counter** | DLD Logic Circuits, IR Sensors, Seven-Segment Display | Hardware-based digital circuit system designed to dynamically track bidirectional room entry/exit. |
+| **Laser Security Alarm** | Analog Circuitry, LDR, Laser Diode, Buzzer | Tripwire security circuit triggering high-frequency alarm detection upon beam interruption. |
+| **Automatic Water Dispense System** | IR Proximity Sensor, Transistor Driver, Submersible Pump | Hands-free fluid dispensing system using non-contact infrared object detection. |
 
-**Signal Processing & Computation**
+**Signal Processing & Systems**
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **MATLAB Audio Filter** | MATLAB, DSP, Fourier Analysis | Noise cancellation system using custom digital signal filtering algorithms. |
+| **Noise Filtering using Audio Signal Processing** | MATLAB, DSP, Fourier Analysis | Audio noise cancellation system utilizing digital signal filtering and spectral attenuation techniques. |
 
 ---
 
