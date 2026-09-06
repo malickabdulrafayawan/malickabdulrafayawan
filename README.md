@@ -38,6 +38,16 @@
 
 ---
 
+### 🎓 Education
+
+| Degree / Certification | Field of Study | Institution |
+| :--- | :--- | :--- |
+| **Bachelor of Science (B.S.)** | Robotics & Intelligence Systems | Bahria University Karachi Campus |
+| **Intermediate (HSC)** | Pre-Engineering | Aisha Bawany Government College |
+| **Matriculation (SSC)** | Science | Gulistan Shah Abdul Latif School |
+
+---
+
 ### 🚀 Projects
 
 **AI & Computer Vision**
@@ -45,6 +55,7 @@
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | **AI Virtual Painter** | Python, OpenCV, MediaPipe | Real-time interactive virtual drawing canvas controlled by hand gesture tracking. |
+| **Face Detector** | Python, OpenCV, Haar Cascades / Deep Learning | Real-time facial detection and tracking system using computer vision models. |
 | **Hand Gesture Recognition** | Python, Scikit-Learn, OpenCV | Machine learning model for detecting and classifying hand poses. |
 
 **Robotics, Embedded Systems & Electronics**
@@ -66,10 +77,10 @@
 
 ### 💼 Experience
 
-| 👤 Role | 🏢 Organization / Institution | 📅 Period | 📑 Details |
-| :--- | :--- | :--- | :--- |
-| **Undergraduate Student** | Robotics & Intelligence Systems | Present | Pursuing degree focused on AI, Computer Vision, and Control Systems. |
-| **Academic Projects** | University Engineering Labs | Ongoing | Developing real-time hardware-software integrations and vision systems. |
+| 👤 Role | 🏢 Organization / Institution | 📑 Details |
+| :--- | :--- | :--- |
+| **Undergraduate Student** | Bahria University Karachi Campus | Pursuing B.S. degree focused on AI, Computer Vision, and Control Systems. |
+| **Academic Projects** | Bahria University Engineering Labs | Developing real-time hardware-software integrations and vision systems. |
 
 ---
 
